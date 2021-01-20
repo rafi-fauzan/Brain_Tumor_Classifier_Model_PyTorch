@@ -1,1 +1,1 @@
-# Brain_Tumor_Classifier_Model_PyTorch
+# Brain Tumor Classifier Model PyTorch
